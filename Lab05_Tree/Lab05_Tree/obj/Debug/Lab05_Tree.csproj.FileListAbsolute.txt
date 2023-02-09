@@ -1,0 +1,22 @@
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Labs\Lab05_Tree\Lab05_Tree\Lab05_Tree\bin\Debug\Lab05_Tree.exe.config
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Labs\Lab05_Tree\Lab05_Tree\Lab05_Tree\bin\Debug\Lab05_Tree.exe
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Labs\Lab05_Tree\Lab05_Tree\Lab05_Tree\bin\Debug\Lab05_Tree.pdb
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Labs\Lab05_Tree\Lab05_Tree\Lab05_Tree\obj\Debug\Lab05_Tree.csproj.AssemblyReference.cache
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Labs\Lab05_Tree\Lab05_Tree\Lab05_Tree\obj\Debug\Lab05_Tree.csproj.SuggestedBindingRedirects.cache
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Labs\Lab05_Tree\Lab05_Tree\Lab05_Tree\obj\Debug\Lab05_Tree.Form1.resources
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Labs\Lab05_Tree\Lab05_Tree\Lab05_Tree\obj\Debug\Lab05_Tree.Properties.Resources.resources
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Labs\Lab05_Tree\Lab05_Tree\Lab05_Tree\obj\Debug\Lab05_Tree.csproj.GenerateResource.cache
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Labs\Lab05_Tree\Lab05_Tree\Lab05_Tree\obj\Debug\Lab05_Tree.csproj.CoreCompileInputs.cache
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Labs\Lab05_Tree\Lab05_Tree\Lab05_Tree\obj\Debug\Lab05_Tree.exe
+C:\Users\Isma2\OneDrive - Escuela Politécnica Nacional\Documentos\SOFTWARE CUARTO SEMESTRE\EDA II\Labs\Lab05_Tree\Lab05_Tree\Lab05_Tree\obj\Debug\Lab05_Tree.pdb
+C:\Users\DELL INSPIRON\Desktop\U\5to Semestre\EDA II\Lab05_Tree\Lab05_Tree\Lab05_Tree\bin\Debug\Lab05_Tree.exe.config
+C:\Users\DELL INSPIRON\Desktop\U\5to Semestre\EDA II\Lab05_Tree\Lab05_Tree\Lab05_Tree\bin\Debug\Lab05_Tree.exe
+C:\Users\DELL INSPIRON\Desktop\U\5to Semestre\EDA II\Lab05_Tree\Lab05_Tree\Lab05_Tree\bin\Debug\Lab05_Tree.pdb
+C:\Users\DELL INSPIRON\Desktop\U\5to Semestre\EDA II\Lab05_Tree\Lab05_Tree\Lab05_Tree\obj\Debug\Lab05_Tree.csproj.AssemblyReference.cache
+C:\Users\DELL INSPIRON\Desktop\U\5to Semestre\EDA II\Lab05_Tree\Lab05_Tree\Lab05_Tree\obj\Debug\Lab05_Tree.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL INSPIRON\Desktop\U\5to Semestre\EDA II\Lab05_Tree\Lab05_Tree\Lab05_Tree\obj\Debug\Lab05_Tree.Properties.Resources.resources
+C:\Users\DELL INSPIRON\Desktop\U\5to Semestre\EDA II\Lab05_Tree\Lab05_Tree\Lab05_Tree\obj\Debug\Lab05_Tree.csproj.GenerateResource.cache
+C:\Users\DELL INSPIRON\Desktop\U\5to Semestre\EDA II\Lab05_Tree\Lab05_Tree\Lab05_Tree\obj\Debug\Lab05_Tree.csproj.CoreCompileInputs.cache
+C:\Users\DELL INSPIRON\Desktop\U\5to Semestre\EDA II\Lab05_Tree\Lab05_Tree\Lab05_Tree\obj\Debug\Lab05_Tree.exe
+C:\Users\DELL INSPIRON\Desktop\U\5to Semestre\EDA II\Lab05_Tree\Lab05_Tree\Lab05_Tree\obj\Debug\Lab05_Tree.pdb
+C:\Users\DELL INSPIRON\Desktop\U\5to Semestre\EDA II\Lab05_Tree\Lab05_Tree\Lab05_Tree\obj\Debug\Lab05_Tree.Tree1.resources
